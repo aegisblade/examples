@@ -19,13 +19,13 @@
 <br />
 <p align="center">
   <a href="https://www.aegisblade.com">
-    <img src="https://www.aegisblade.com/images/BigCloud.png" alt="Logo" width="80" height="80">
+    <img src="https://www.aegisblade.com/images/BigCloud.png" alt="Logo" width="80">
   </a>
 
   <h3 align="center">AegisBlade Example Applications</h3>
 
   <p align="center">
-    A set of applications showing how to deploy and run code with AegisBlade for various tasks like web crawling.
+    A set of applications showing how to deploy and run code with AegisBlade.
     <br />
     <a href="https://www.aegisblade.com/docs"><strong>Read the docs »</strong></a>
     <br />
