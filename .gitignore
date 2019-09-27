@@ -1,0 +1,9 @@
+.vscode/
+venv/
+__pycache__/
+node_modules/
+
+sync.sh 
+
+*.pyc
+.DS_Store

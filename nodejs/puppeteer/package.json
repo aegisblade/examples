@@ -1,0 +1,15 @@
+{
+  "name": "aegisblade-nodejs-example-puppeteer",
+  "version": "1.0.0",
+  "description": "An example project demonstrating how to launch a job that uses Puppeteer to control a browser using the AegisBlade NodeJS client.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "aegisblade": "0.2.0",
+    "puppeteer": "^1.19.0"
+  }
+}

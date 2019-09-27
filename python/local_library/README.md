@@ -1,0 +1,1 @@
+Example that shows how to ensure a package provided by a library on the local disk is uploaded as a part of your app.
