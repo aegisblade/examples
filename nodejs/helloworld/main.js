@@ -20,7 +20,7 @@ module.exports = {helloWorld};
  * on a server using AegisBlade.
  */
 async function main() {
-    let job = await aegisblade.run(helloWorld, [34]);
+    let job = await aegisblade.run(helloWorld);
     
     console.log(`Job Id: ${job.id}`);
     console.log("Waiting for the job to finish running...");
